@@ -1,5 +1,6 @@
 ## code your solution here.
-require 'binding'
+require 'pry'
+
 class Cat
 
 attr_accessor :name
